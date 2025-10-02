@@ -1,6 +1,6 @@
 public class Test{
     public static void main(String [] args) {
         System.out.println("Hi, ini baris kode pertama");
-        System.out.println("I love Jennie");
+        System.out.println("User 2 added line");
     }
 }
